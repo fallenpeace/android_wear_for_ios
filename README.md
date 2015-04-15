@@ -68,7 +68,7 @@ Getting Started
 2. Install "Light Blue" app to your iPhone.
 3. Create virtual peripheral from "Blink" template.  
 4. Launch the app on your Android wear.
-5. Turn on "Blink" peripheral on LightBlue app.
+5. Turn on "Blank" peripheral on LightBlue app.
 6. If success connect to iphone, success animation is played.
 7. Push wear's crown to back home screen. **Don't swipe Activity.**  
 
